@@ -26,3 +26,4 @@ function CountNonDivisible(A) {
     console.log(output);
 }
 CountNonDivisible(A);
+//wrong solution please do not refer.

@@ -1,3 +1,6 @@
+
+// wrong output wrong solution
+
 function countSemiPrime(A, B) {
     var startLen = A;
     var endLen = B;
